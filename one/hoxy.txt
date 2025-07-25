@@ -1,0 +1,4 @@
+I am a new file which store changes in bug file.
+fixed another bug.
+this is a new line for testing.
+
