@@ -1,4 +1,9 @@
 I am a new file which store changes in bug file.
 fixed another bug.
-this is a new line for testing.
+this is a new line for testing
+
+
+fifth bug fixed.
+sixth bug fixed.
+
 
