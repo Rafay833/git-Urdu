@@ -1,0 +1,2 @@
+I AM A FILE THAT CAN STORE ALL DATA RELATED TO EMPLOYEES.
+salary are between 50k to 100k.
